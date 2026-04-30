@@ -5,4 +5,4 @@ matplotlib
 plotly
 scikit-learn
 prophet==1.1.5
-cmdstanpy
+cmdstanpy==1.2.2
