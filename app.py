@@ -770,18 +770,17 @@ elif page == "📊 Surveillance":
     </div>
     """, unsafe_allow_html=True)
     # NOTE: Replace placeholder URL with your actual Custom Report formspree form URL
-  st.markdown(
-    """
-<a href="https://formspree.io/f/mwvyeypw" target="_blank" rel="noopener noreferrer"
-style="display:inline-block; background:#d85a30; color:#fff; padding:0.6rem 1.4rem;
-border-radius:2px; text-decoration:none; font-size:0.9rem; font-weight:500;
-font-family:Inter,sans-serif; transition:background 0.2s;">
-Request Custom Report →
-</a>
-    """,
-    unsafe_allow_html=True
-)
-
+ st.markdown(
+            """
+            <a href="https://formspree.io/f/mwvyeypw" target="_blank" rel="noopener noreferrer"
+            style="display:inline-block; background:#d85a30; color:#fff; padding:0.6rem 1.4rem;
+            border-radius:2px; text-decoration:none; font-size:0.9rem; font-weight:500;
+            font-family:Inter,sans-serif; transition:background 0.2s;">
+            Request Custom Report →
+            </a>
+            """,
+            unsafe_allow_html=True
+        )
     st.caption("Custom reports are a Pro feature delivered manually by the AMRlytics team. "
                "Replies arrive at the email you provide in the form.")
 
