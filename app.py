@@ -782,7 +782,7 @@ st.markdown(
         unsafe_allow_html=True
     )
   st.caption("Custom reports are a Pro feature delivered manually by the AMRlytics team. "
-               "Replies arrive at the email you provide in the form.")
+                   "Replies arrive at the email you provide in the form.")
 
 # ============================================================
 # PAGE 3: TREND-BASED AI FORECASTING (Pro w/ free demo)
