@@ -776,7 +776,7 @@ st.markdown("<a href='https://formspree.io/f/mwvyeypw' target='_blank' style='ba
 # PAGE 3: TREND-BASED AI FORECASTING (Pro w/ free demo)
 # ============================================================
 
-elif page == "📈 Trend-based AI Forecasting":
+elif page == "📊 Trend-based AI Forecasting":
     st.title("Trend-based AI Forecasting")
     st.caption("Prophet time-series model · projections with 80% confidence intervals")
 
