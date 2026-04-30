@@ -1,0 +1,84 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Colistin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Klebsiella pneumoniae","Colistin",0,0.429184549,2.898550725,9.265614276,27.586206897
+2019,"BLOOD","Klebsiella pneumoniae","Colistin",0,0,2.763225558,13.095622678,39.655172414
+2020,"BLOOD","Klebsiella pneumoniae","Colistin",0,0.431034483,4.061102832,9.423347398,32.911392405
+2021,"BLOOD","Klebsiella pneumoniae","Colistin",0,2.108974359,3.866914212,14.457351477,47.058823529
+2022,"BLOOD","Klebsiella pneumoniae","Colistin",0,2.025462963,6.184189304,18.211637487,27.302631579
+2023,"BLOOD","Klebsiella pneumoniae","Colistin",0,2.617010569,4.651162791,13.533834586,29.133858268
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Colistin",7385,1457,135,9.265614276
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",216,11,0,0
+"IND","India","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",14459,51,0,0
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",1826,80,7,8.75
+"XKX","Kosovo","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",164,64,3,4.6875
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",1116,69,2,2.898550725
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",5595,332,5,1.506024096
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",3519,699,3,0.429184549
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",2420,410,90,21.951219512
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",19539,237,3,1.265822785
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",2629,34,0,0
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Colistin",5783,1053,92,8.73694207
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",433,13,0,0
+"IND","India","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",24223,722,73,10.110803324
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",2277,47,0,0
+"XKX","Kosovo","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",151,52,1,1.923076923
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",624,47,1,2.127659574
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",6468,331,5,1.510574018
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",3646,716,3,0.418994413
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",2528,485,136,28.041237113
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",10424,76,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",5463,250,0,0
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Colistin",7376,1486,193,12.987886945
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",741,42,0,0
+"IND","India","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",12371,1049,56,5.338417541
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",1854,36,4,11.111111111
+"XKX","Kosovo","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",161,77,0,0
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",530,63,1,1.587301587
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",4276,488,23,4.713114754
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",4095,870,5,0.574712644
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",2458,399,99,24.812030075
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",10256,51,0,0
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",6159,470,13,2.765957447
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Klebsiella pneumoniae","Colistin",9243,1490,177,11.879194631
+"GEO","Georgia","European Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",666,52,1,1.923076923
+"IND","India","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",34056,3592,143,3.981069042
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",2037,25,0,0
+"XKX","Kosovo","European Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",213,89,19,21.348314607
+"MLT","Malta","European Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",569,54,0,0
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",4850,378,124,32.804232804
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",4488,957,10,1.044932079
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",1126,214,45,21.028037383
+"CHE","Switzerland","European Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",10322,75,2,2.666666667
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Colistin",6559,352,10,2.840909091
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Klebsiella pneumoniae","Colistin",8366,939,121,12.886048988
+"GEO","Georgia","European Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",1007,69,4,5.797101449
+"IND","India","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",43929,4668,150,3.213367609
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",2263,38,0,0
+"XKX","Kosovo","European Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",189,111,0,0
+"MLT","Malta","European Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",706,55,1,1.818181818
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",5937,378,54,14.285714286
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",4484,1003,11,1.09670987
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",1962,304,83,27.302631579
+"CHE","Switzerland","European Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",11308,48,1,2.083333333
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Colistin",9544,732,18,2.459016393
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Klebsiella pneumoniae","Colistin",9290,716,59,8.240223464
+"GEO","Georgia","European Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",898,93,9,9.677419355
+"IND","India","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",41375,5961,156,2.617010569
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",2925,40,1,2.5
+"XKX","Kosovo","European Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",164,63,1,1.587301587
+"MLT","Malta","European Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",859,67,3,4.47761194
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",7705,174,5,2.873563218
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",5416,1244,6,0.482315113
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",1927,254,74,29.133858268
+"CHE","Switzerland","European Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",12511,50,1,2
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Colistin",14722,1744,132,7.568807339

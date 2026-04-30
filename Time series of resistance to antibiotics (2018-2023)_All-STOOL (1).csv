@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Shigella spp.
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Shigella spp.","Ciprofloxacin",0,0.242112444,14.333333333,23.218325792,40.697674419
+2019,"STOOL","Shigella spp.","Ciprofloxacin",0,0.287356322,14.285714286,31.081081081,36
+2020,"STOOL","Shigella spp.","Ciprofloxacin",0.4048583,6.666666667,17.647058824,27.777777778,35.135135135
+2021,"STOOL","Shigella spp.","Ciprofloxacin",0.22172949,7.847587195,20,26.492771842,36.842105263
+2022,"STOOL","Shigella spp.","Ciprofloxacin",0,0.539568345,7.142857143,27.922077922,40.229885057
+2023,"STOOL","Shigella spp.","Ciprofloxacin",0,10.933748333,23.180076628,26.297305046,49.047619048
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Shigella spp.","Ciprofloxacin",3376,2810,5,0.177935943
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",205,25,3,12
+"OMN","Oman","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",272,42,7,16.666666667
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",120,68,20,29.411764706
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",818,86,35,40.697674419
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Shigella spp.","Ciprofloxacin",2892,2436,7,0.287356322
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",316,39,2,5.128205128
+"OMN","Oman","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",119,119,32,26.890756303
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",209,74,23,31.081081081
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",1005,50,18,36
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Shigella spp.","Ciprofloxacin",2201,1669,8,0.479328939
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",172,15,1,6.666666667
+"OMN","Oman","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",228,12,4,33.333333333
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",117,18,5,27.777777778
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",1068,34,6,17.647058824
+"ARG","Argentina","Region of the Americas",2021,"STOOL","Shigella spp.","Ciprofloxacin",2270,1610,5,0.310559006
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ciprofloxacin",178,10,2,20
+"OMN","Oman","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ciprofloxacin",476,13,2,15.384615385
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ciprofloxacin",108,74,22,29.72972973
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ciprofloxacin",1289,43,10,23.255813953
+"ARG","Argentina","Region of the Americas",2022,"STOOL","Shigella spp.","Ciprofloxacin",2265,1569,26,1.657106437
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ciprofloxacin",234,12,0,0
+"OMN","Oman","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ciprofloxacin",630,45,6,13.333333333
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ciprofloxacin",234,154,43,27.922077922
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ciprofloxacin",1509,85,34,40
+"ARG","Argentina","Region of the Americas",2023,"STOOL","Shigella spp.","Ciprofloxacin",3273,2249,84,3.73499333
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ciprofloxacin",389,60,8,13.333333333
+"OMN","Oman","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ciprofloxacin",980,87,21,24.137931034
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ciprofloxacin",162,109,28,25.688073394
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ciprofloxacin",1777,63,14,22.222222222

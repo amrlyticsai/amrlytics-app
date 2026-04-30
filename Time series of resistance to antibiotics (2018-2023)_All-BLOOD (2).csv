@@ -1,0 +1,60 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Cefotaxime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Salmonella spp.","Cefotaxime",0,1.18627451,3.653044204,7.597188476,40
+2019,"BLOOD","Salmonella spp.","Cefotaxime",0,0.71942446,3.378378378,11.931818182,47.067137809
+2020,"BLOOD","Salmonella spp.","Cefotaxime",0,1.551836516,2.789373814,8.581081081,17.142857143
+2021,"BLOOD","Salmonella spp.","Cefotaxime",0.523560209,2.890834077,4.494949495,8.960746461,49.688149688
+2022,"BLOOD","Salmonella spp.","Cefotaxime",0,0.816696915,4.692082111,9.31122449,70.149253731
+2023,"BLOOD","Salmonella spp.","Cefotaxime",0,2.325581395,4.918032787,12,61.538461538
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Salmonella spp.","Cefotaxime",7385,28,0,0
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Cefotaxime",1381,10,4,40
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Cefotaxime",126859,425,2,0.470588235
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Cefotaxime",5595,150,5,3.333333333
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Cefotaxime",3519,55,2,3.636363636
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Cefotaxime",2629,86,7,8.139534884
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Cefotaxime",2452,67,4,5.970149254
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Salmonella spp.","Cefotaxime",5783,139,1,0.71942446
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Cefotaxime",2314,52,8,15.384615385
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Cefotaxime",136246,475,7,1.473684211
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Cefotaxime",6468,106,7,6.603773585
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Cefotaxime",3646,47,3,6.382978723
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Cefotaxime",5463,176,21,11.931818182
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Cefotaxime",2464,93,15,16.129032258
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Salmonella spp.","Cefotaxime",7376,185,1,0.540540541
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Cefotaxime",1676,30,3,10
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Cefotaxime",142185,449,9,2.004454343
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Cefotaxime",4276,85,2,2.352941176
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Cefotaxime",4095,37,3,8.108108108
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Cefotaxime",6159,171,20,11.695906433
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Cefotaxime",2925,70,12,17.142857143
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Salmonella spp.","Cefotaxime",9243,59,1,1.694915254
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Cefotaxime",3070,36,2,5.555555556
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Cefotaxime",148205,404,5,1.237623762
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Cefotaxime",4850,85,3,3.529411765
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Cefotaxime",4488,45,2,4.444444444
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Cefotaxime",6559,176,26,14.772727273
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Cefotaxime",3989,111,16,14.414414414
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Salmonella spp.","Cefotaxime",8366,62,3,4.838709677
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Cefotaxime",5596,96,8,8.333333333
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Cefotaxime",158356,551,6,1.08892922
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Cefotaxime",5937,68,5,7.352941176
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Cefotaxime",4484,49,6,12.244897959
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Cefotaxime",9544,139,21,15.107913669
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Cefotaxime",4194,66,3,4.545454545
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Salmonella spp.","Cefotaxime",9290,73,2,2.739726027
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Cefotaxime",9180,141,42,29.787234043
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Cefotaxime",169604,633,8,1.263823065
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Cefotaxime",7705,61,3,4.918032787
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Cefotaxime",5416,75,9,12
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Cefotaxime",14722,255,22,8.62745098
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Cefotaxime",3959,60,3,5

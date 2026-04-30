@@ -1,0 +1,162 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Meropenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Meropenem",0,0.05800464,1.397712834,3.902439024,31.147540984
+2019,"BLOOD","Escherichia coli","Meropenem",0,0,0.509243624,1.90580008,28.571428571
+2020,"BLOOD","Escherichia coli","Meropenem",0,0.01125182,0.245341924,3.118495391,31.111111111
+2021,"BLOOD","Escherichia coli","Meropenem",0,0,0.276441077,2.200491112,28.571428571
+2022,"BLOOD","Escherichia coli","Meropenem",0,0.041034058,0.605601817,4.347826087,78.877005348
+2023,"BLOOD","Escherichia coli","Meropenem",0,0.02605811,0.402352213,3.172588832,29.981873112
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Meropenem",7385,2111,7,0.3315964
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",633,199,4,2.010050251
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Meropenem",841,247,0,0
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Escherichia coli","Meropenem",314,102,1,0.980392157
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Meropenem",216,42,4,9.523809524
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Meropenem",14459,1527,371,24.296005239
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Meropenem",1381,242,19,7.851239669
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",1826,205,8,3.902439024
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Meropenem",126859,72658,23,0.031655152
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",345,90,0,0
+"XKX","Kosovo","European Region",2018,"BLOOD","Escherichia coli","Meropenem",164,12,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Escherichia coli","Meropenem",275,66,1,1.515151515
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Meropenem",1116,352,0,0
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Escherichia coli","Meropenem",1202,47,6,12.765957447
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Meropenem",176,53,2,3.773584906
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",631,174,2,1.149425287
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",7410,692,126,18.208092486
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Meropenem",5595,1160,44,3.793103448
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Meropenem",3519,1724,1,0.05800464
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",2420,563,12,2.131438721
+"ZAF","South Africa","African Region",2018,"BLOOD","Escherichia coli","Meropenem",20691,3592,12,0.334075724
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Meropenem",19539,9411,0,0
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Meropenem",2629,846,9,1.063829787
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Meropenem",2452,787,11,1.397712834
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Meropenem",5783,1701,10,0.587889477
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",780,195,4,2.051282051
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Meropenem",1020,290,0,0
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Escherichia coli","Meropenem",606,160,1,0.625
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Meropenem",433,77,6,7.792207792
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Meropenem",24223,3433,650,18.933877075
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Meropenem",2314,576,25,4.340277778
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",2277,283,1,0.35335689
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Meropenem",136246,78767,32,0.040626151
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",627,104,1,0.961538462
+"XKX","Kosovo","European Region",2019,"BLOOD","Escherichia coli","Meropenem",151,17,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Escherichia coli","Meropenem",314,62,0,0
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Meropenem",624,358,0,0
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Escherichia coli","Meropenem",2380,209,9,4.306220096
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Meropenem",276,82,1,1.219512195
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",1007,447,9,2.013422819
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",8980,714,127,17.787114846
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Meropenem",6468,1332,82,6.156156156
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Meropenem",3646,1939,1,0.051572976
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",2528,563,5,0.888099467
+"ZAF","South Africa","African Region",2019,"BLOOD","Escherichia coli","Meropenem",20489,3948,17,0.430597771
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Meropenem",10424,5080,1,0.019685039
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Meropenem",5463,1954,28,1.432958035
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Meropenem",2464,741,7,0.944669366
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Meropenem",7376,1933,5,0.258665287
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",568,127,6,4.724409449
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Meropenem",954,179,0,0
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Escherichia coli","Meropenem",584,125,0,0
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Meropenem",741,134,1,0.746268657
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Meropenem",12371,2117,500,23.618327822
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Meropenem",1676,391,13,3.324808184
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",1854,177,5,2.824858757
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Meropenem",142185,85346,27,0.031635929
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",446,97,7,7.216494845
+"XKX","Kosovo","European Region",2020,"BLOOD","Escherichia coli","Meropenem",161,10,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Escherichia coli","Meropenem",422,161,0,0
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Meropenem",530,277,0,0
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Escherichia coli","Meropenem",1515,159,9,5.660377358
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Meropenem",293,49,1,2.040816327
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",876,109,1,0.917431193
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",5623,382,85,22.251308901
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Meropenem",4276,766,55,7.180156658
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Meropenem",4095,2209,1,0.045269353
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",2458,465,12,2.580645161
+"ZAF","South Africa","African Region",2020,"BLOOD","Escherichia coli","Meropenem",23840,4272,17,0.397940075
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Meropenem",10256,5187,1,0.019278967
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Meropenem",6159,2407,34,1.412546739
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Meropenem",2925,767,18,2.346805737
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Escherichia coli","Meropenem",9243,2039,12,0.588523786
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",677,126,7,5.555555556
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Escherichia coli","Meropenem",1457,199,0,0
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Escherichia coli","Meropenem",953,132,1,0.757575758
+"GEO","Georgia","European Region",2021,"BLOOD","Escherichia coli","Meropenem",666,80,4,5
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Meropenem",34056,5888,1505,25.560461957
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Meropenem",3070,550,23,4.181818182
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",2037,232,17,7.327586207
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Escherichia coli","Meropenem",148205,88964,44,0.049458208
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",1611,42,12,28.571428571
+"XKX","Kosovo","European Region",2021,"BLOOD","Escherichia coli","Meropenem",213,10,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Escherichia coli","Meropenem",340,134,0,0
+"MLT","Malta","European Region",2021,"BLOOD","Escherichia coli","Meropenem",569,299,0,0
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Escherichia coli","Meropenem",1301,109,10,9.174311927
+"MKD","North Macedonia","European Region",2021,"BLOOD","Escherichia coli","Meropenem",284,44,0,0
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",1621,183,4,2.18579235
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",10931,2463,595,24.157531466
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Meropenem",4850,851,84,9.870740306
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Escherichia coli","Meropenem",4488,2165,1,0.046189376
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",1126,214,4,1.869158879
+"ZAF","South Africa","African Region",2021,"BLOOD","Escherichia coli","Meropenem",23334,3952,33,0.835020243
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Meropenem",10322,4631,2,0.043187217
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Meropenem",6559,2389,18,0.753453328
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Meropenem",3989,1264,28,2.215189873
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Escherichia coli","Meropenem",8366,2073,27,1.302460203
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",582,138,6,4.347826087
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Escherichia coli","Meropenem",1207,276,2,0.724637681
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Escherichia coli","Meropenem",776,186,3,1.612903226
+"GEO","Georgia","European Region",2022,"BLOOD","Escherichia coli","Meropenem",1007,200,1,0.5
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Meropenem",43929,7641,1969,25.768878419
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Meropenem",5596,1342,68,5.067064083
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",2263,263,14,5.323193916
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Escherichia coli","Meropenem",158356,93523,34,0.036354693
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",2027,289,29,10.034602076
+"XKX","Kosovo","European Region",2022,"BLOOD","Escherichia coli","Meropenem",189,13,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Escherichia coli","Meropenem",461,209,0,0
+"MLT","Malta","European Region",2022,"BLOOD","Escherichia coli","Meropenem",706,382,0,0
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Escherichia coli","Meropenem",2829,256,32,12.5
+"MKD","North Macedonia","European Region",2022,"BLOOD","Escherichia coli","Meropenem",279,62,1,1.612903226
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",2075,346,11,3.179190751
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",16099,3556,775,21.794150731
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Meropenem",5937,1238,130,10.500807754
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Escherichia coli","Meropenem",4484,2281,3,0.131521263
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",1962,452,12,2.654867257
+"ZAF","South Africa","African Region",2022,"BLOOD","Escherichia coli","Meropenem",24658,4306,52,1.207617278
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Meropenem",11308,4455,1,0.022446689
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Meropenem",9544,2867,41,1.430066271
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Meropenem",4194,1531,29,1.894186806
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Escherichia coli","Meropenem",9290,2387,20,0.837871806
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",964,240,24,10
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Escherichia coli","Meropenem",1271,339,2,0.589970501
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Escherichia coli","Meropenem",3041,764,4,0.523560209
+"GEO","Georgia","European Region",2023,"BLOOD","Escherichia coli","Meropenem",898,206,4,1.941747573
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Meropenem",41375,8275,2481,29.981873112
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Meropenem",9180,2115,145,6.855791962
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",2925,436,32,7.339449541
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Escherichia coli","Meropenem",169604,99777,26,0.02605811
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",3297,367,34,9.264305177
+"XKX","Kosovo","European Region",2023,"BLOOD","Escherichia coli","Meropenem",164,24,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Escherichia coli","Meropenem",605,251,0,0
+"MLT","Malta","European Region",2023,"BLOOD","Escherichia coli","Meropenem",859,497,0,0
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Escherichia coli","Meropenem",2740,327,65,19.877675841
+"MKD","North Macedonia","European Region",2023,"BLOOD","Escherichia coli","Meropenem",283,50,0,0
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",2586,658,19,2.887537994
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",13338,2473,622,25.151637687
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Meropenem",7705,1491,134,8.987256875
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Escherichia coli","Meropenem",5416,2844,4,0.140646976
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",1927,415,10,2.409638554
+"ZAF","South Africa","African Region",2023,"BLOOD","Escherichia coli","Meropenem",26026,4504,89,1.976021314
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Meropenem",12511,4911,2,0.040724903
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Meropenem",14722,4728,150,3.172588832
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Meropenem",3959,1439,34,2.362751911

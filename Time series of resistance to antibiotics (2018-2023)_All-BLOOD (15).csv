@@ -1,0 +1,102 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Levofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Levofloxacin",14.012738854,26.666666667,37.878787879,50,83.333333333
+2019,"BLOOD","Escherichia coli","Levofloxacin",9.693621296,18.698139435,38.582677165,50.288012455,92.105263158
+2020,"BLOOD","Escherichia coli","Levofloxacin",10.283073368,18.873662255,34.87654321,47.044851195,76.923076923
+2021,"BLOOD","Escherichia coli","Levofloxacin",9.014869888,18.181818182,33.502538071,51.282051282,90
+2022,"BLOOD","Escherichia coli","Levofloxacin",8.371385084,22.48658828,38.600723764,51.858363858,81.25
+2023,"BLOOD","Escherichia coli","Levofloxacin",8.333333333,23.319910078,38.565891473,54.67032967,73.406193078
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Levofloxacin",841,234,52,22.222222222
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Levofloxacin",216,46,23,50
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Levofloxacin",1381,137,20,14.598540146
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Levofloxacin",126859,71346,20448,28.660331343
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Levofloxacin",345,86,49,56.976744186
+"XKX","Kosovo","European Region",2018,"BLOOD","Escherichia coli","Levofloxacin",164,12,6,50
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Escherichia coli","Levofloxacin",1202,35,18,51.428571429
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Levofloxacin",7410,157,22,14.012738854
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Levofloxacin",5595,484,180,37.190082645
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Levofloxacin",2420,401,180,44.887780549
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Levofloxacin",19539,4857,846,17.418159358
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Levofloxacin",2629,286,99,34.615384615
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Levofloxacin",1660,60,16,26.666666667
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Levofloxacin",2452,41,20,48.780487805
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Levofloxacin",1020,261,73,27.969348659
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Levofloxacin",433,18,8,44.444444444
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Levofloxacin",2314,151,98,64.900662252
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Levofloxacin",136246,77358,23168,29.94906797
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Levofloxacin",627,151,96,63.57615894
+"XKX","Kosovo","European Region",2019,"BLOOD","Escherichia coli","Levofloxacin",151,17,6,35.294117647
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Escherichia coli","Levofloxacin",2380,140,26,18.571428571
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Levofloxacin",8980,38,35,92.105263158
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Levofloxacin",6468,556,221,39.748201439
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Levofloxacin",2528,410,203,49.512195122
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Levofloxacin",10424,2232,351,15.725806452
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Levofloxacin",5463,762,294,38.582677165
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Levofloxacin",932,34,9,26.470588235
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Levofloxacin",2464,42,20,47.619047619
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Levofloxacin",954,172,34,19.76744186
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Levofloxacin",741,38,17,44.736842105
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Levofloxacin",1676,103,68,66.019417476
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Levofloxacin",142185,84435,24808,29.38118079
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Levofloxacin",446,34,16,47.058823529
+"XKX","Kosovo","European Region",2020,"BLOOD","Escherichia coli","Levofloxacin",161,10,2,20
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Escherichia coli","Levofloxacin",1515,114,31,27.192982456
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Levofloxacin",5623,190,119,62.631578947
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Levofloxacin",4276,271,114,42.066420664
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Levofloxacin",2458,421,198,47.03087886
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Levofloxacin",10256,2489,380,15.267175573
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Levofloxacin",6159,1029,448,43.537414966
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Levofloxacin",917,18,6,33.333333333
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Levofloxacin",2925,125,52,41.6
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Escherichia coli","Levofloxacin",1457,197,66,33.502538071
+"GEO","Georgia","European Region",2021,"BLOOD","Escherichia coli","Levofloxacin",666,40,8,20
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Levofloxacin",3070,214,148,69.158878505
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Escherichia coli","Levofloxacin",148205,87557,25260,28.849777859
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Levofloxacin",1611,39,20,51.282051282
+"XKX","Kosovo","European Region",2021,"BLOOD","Escherichia coli","Levofloxacin",213,10,4,40
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Escherichia coli","Levofloxacin",1301,46,20,43.47826087
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Levofloxacin",10931,636,487,76.572327044
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Levofloxacin",4850,279,125,44.802867384
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Levofloxacin",1126,174,81,46.551724138
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Levofloxacin",10322,2264,331,14.620141343
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Levofloxacin",6559,958,399,41.649269311
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Levofloxacin",854,22,4,18.181818182
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Levofloxacin",3989,305,157,51.475409836
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Escherichia coli","Levofloxacin",1207,251,81,32.270916335
+"GEO","Georgia","European Region",2022,"BLOOD","Escherichia coli","Levofloxacin",1007,35,14,40
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Levofloxacin",5596,511,312,61.056751468
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Escherichia coli","Levofloxacin",158356,90990,26008,28.583360809
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Levofloxacin",2027,96,48,50
+"XKX","Kosovo","European Region",2022,"BLOOD","Escherichia coli","Levofloxacin",189,13,4,30.769230769
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Escherichia coli","Levofloxacin",2829,150,80,53.333333333
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Levofloxacin",16099,1338,953,71.225710015
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Levofloxacin",5937,239,97,40.585774059
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Levofloxacin",1962,315,160,50.793650794
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Levofloxacin",11308,2324,315,13.554216867
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Levofloxacin",9544,1372,572,41.690962099
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Levofloxacin",858,20,7,35
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Levofloxacin",4194,325,172,52.923076923
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Escherichia coli","Levofloxacin",1271,332,117,35.240963855
+"GEO","Georgia","European Region",2023,"BLOOD","Escherichia coli","Levofloxacin",898,172,61,35.465116279
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Levofloxacin",9180,949,623,65.64805058
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Escherichia coli","Levofloxacin",169604,95439,26894,28.17925586
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Levofloxacin",3297,91,50,54.945054945
+"XKX","Kosovo","European Region",2023,"BLOOD","Escherichia coli","Levofloxacin",164,24,10,41.666666667
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Escherichia coli","Levofloxacin",2740,207,111,53.623188406
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Levofloxacin",13338,1647,1209,73.406193078
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Levofloxacin",7705,531,223,41.996233522
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Levofloxacin",1927,277,143,51.624548736
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Levofloxacin",12511,2498,384,15.372297838
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Levofloxacin",14722,2111,942,44.623401232
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Levofloxacin",1332,117,40,34.188034188
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Levofloxacin",3959,210,127,60.476190476

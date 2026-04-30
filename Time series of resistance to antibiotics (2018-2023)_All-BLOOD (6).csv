@@ -1,0 +1,150 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Gentamicin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Acinetobacter spp.","Gentamicin",5.042016807,32.725260163,59.096941355,74.85719086,98.484848485
+2019,"BLOOD","Acinetobacter spp.","Gentamicin",1.754385965,30.64430778,56.21228257,73.465323336,96.506550218
+2020,"BLOOD","Acinetobacter spp.","Gentamicin",0,37.296747967,60.368663594,74.831081081,98.275862069
+2021,"BLOOD","Acinetobacter spp.","Gentamicin",0,39.473684211,53.836633663,79.591836735,99.707602339
+2022,"BLOOD","Acinetobacter spp.","Gentamicin",0,37.34204793,52.336448598,74.24305749,98.611111111
+2023,"BLOOD","Acinetobacter spp.","Gentamicin",0,28.607954545,57.068062827,69.105611121,96.875
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Acinetobacter spp.","Gentamicin",7385,368,221,60.054347826
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",841,132,130,98.484848485
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Acinetobacter spp.","Gentamicin",314,27,4,14.814814815
+"ETH","Ethiopia","African Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",122,16,12,75
+"GEO","Georgia","European Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",216,29,22,75.862068966
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",1381,215,125,58.139534884
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",1826,352,213,60.511363636
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",345,16,11,68.75
+"XKX","Kosovo","European Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",164,60,51,85
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",275,24,4,16.666666667
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",1202,97,22,22.680412371
+"MKD","North Macedonia","European Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",176,23,21,91.304347826
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",631,57,37,64.912280702
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",7410,151,27,17.880794702
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",5595,939,297,31.629392971
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",3519,247,143,57.894736842
+"RUS","Russian Federation","European Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",427,76,68,89.473684211
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",2420,304,237,77.960526316
+"ZAF","South Africa","African Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",20691,2976,2215,74.428763441
+"CHE","Switzerland","European Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",19539,119,6,5.042016807
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",2629,311,112,36.012861736
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Gentamicin",2452,103,46,44.660194175
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Acinetobacter spp.","Gentamicin",5783,279,177,63.440860215
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",1020,229,221,96.506550218
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Acinetobacter spp.","Gentamicin",606,54,30,55.555555556
+"ETH","Ethiopia","African Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",139,16,13,81.25
+"GEO","Georgia","European Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",433,82,31,37.804878049
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",2314,315,184,58.412698413
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",2277,194,143,73.711340206
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",627,47,38,80.85106383
+"XKX","Kosovo","European Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",151,45,39,86.666666667
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",314,25,2,8
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",2380,346,164,47.398843931
+"MKD","North Macedonia","European Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",276,37,26,70.27027027
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",1007,133,77,57.894736842
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",8980,315,210,66.666666667
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",6468,1104,331,29.981884058
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",3646,225,144,64
+"RUS","Russian Federation","European Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",1173,94,84,89.361702128
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",2528,297,205,69.023569024
+"ZAF","South Africa","African Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",20489,2355,1785,75.796178344
+"CHE","Switzerland","European Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",10424,57,5,8.771929825
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",5463,522,213,40.804597701
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Gentamicin",2464,97,35,36.082474227
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Acinetobacter spp.","Gentamicin",7376,615,464,75.447154472
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",954,348,330,94.827586207
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Acinetobacter spp.","Gentamicin",584,65,42,64.615384615
+"ETH","Ethiopia","African Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",431,35,21,60
+"GEO","Georgia","European Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",741,166,93,56.024096386
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",1676,306,187,61.111111111
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",1854,296,221,74.662162162
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",446,57,35,61.403508772
+"XKX","Kosovo","European Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",161,59,43,72.881355932
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",422,28,1,3.571428571
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",1515,167,83,49.700598802
+"MKD","North Macedonia","European Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",293,39,32,82.051282051
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",876,75,48,64
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",5623,171,110,64.32748538
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",4276,850,272,32
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",4095,217,131,60.368663594
+"RUS","Russian Federation","European Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",1305,203,185,91.133004926
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",2458,477,364,76.310272537
+"ZAF","South Africa","African Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",23840,4544,3178,69.938380282
+"CHE","Switzerland","European Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",10256,81,11,13.580246914
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",6159,654,282,43.119266055
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Gentamicin",2925,122,59,48.360655738
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Acinetobacter spp.","Gentamicin",9243,752,542,72.074468085
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",1457,684,682,99.707602339
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Acinetobacter spp.","Gentamicin",953,204,57,27.941176471
+"ETH","Ethiopia","African Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",786,72,42,58.333333333
+"GEO","Georgia","European Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",666,211,130,61.611374408
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",3070,610,401,65.737704918
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",2037,464,234,50.431034483
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",1611,89,43,48.314606742
+"XKX","Kosovo","European Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",213,93,88,94.623655914
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",340,17,7,41.176470588
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",1301,234,115,49.145299145
+"MKD","North Macedonia","European Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",284,44,41,93.181818182
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",1621,257,205,79.766536965
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",10931,1457,808,55.456417296
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",4850,1125,450,40
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",4488,265,196,73.962264151
+"RUS","Russian Federation","European Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",2762,250,199,79.6
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",1126,200,137,68.5
+"ZAF","South Africa","African Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",23334,4871,3762,77.232601109
+"CHE","Switzerland","European Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",10322,76,10,13.157894737
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",6559,778,442,56.812339332
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Gentamicin",3989,215,106,49.302325581
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Acinetobacter spp.","Gentamicin",8366,457,282,61.70678337
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",1207,360,355,98.611111111
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Acinetobacter spp.","Gentamicin",776,111,83,74.774774775
+"ETH","Ethiopia","African Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",1371,117,77,65.811965812
+"GEO","Georgia","European Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",1007,207,146,70.531400966
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",5596,1108,653,58.935018051
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",2263,443,314,70.880361174
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",2027,291,170,58.419243986
+"XKX","Kosovo","European Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",189,35,34,97.142857143
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",461,54,20,37.037037037
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",2829,356,154,43.258426966
+"MKD","North Macedonia","European Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",279,31,30,96.774193548
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",2075,184,91,49.456521739
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",16099,2993,1382,46.17440695
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",5937,1177,425,36.108751062
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",4484,388,286,73.711340206
+"RUS","Russian Federation","European Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",4369,456,311,68.201754386
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",1962,214,112,52.336448598
+"ZAF","South Africa","African Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",24658,5493,3581,65.192062625
+"CHE","Switzerland","European Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",11308,83,9,10.843373494
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",9544,764,380,49.738219895
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Gentamicin",4194,149,28,18.791946309
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Acinetobacter spp.","Gentamicin",9290,547,352,64.351005484
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",1271,217,207,95.391705069
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Acinetobacter spp.","Gentamicin",3041,235,139,59.14893617
+"ETH","Ethiopia","African Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",1761,382,218,57.068062827
+"GEO","Georgia","European Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",898,100,77,77
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",9180,1787,1085,60.716284275
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",2925,552,352,63.768115942
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",3297,296,170,57.432432432
+"XKX","Kosovo","European Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",164,28,25,89.285714286
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",605,54,19,35.185185185
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",2740,492,232,47.154471545
+"MKD","North Macedonia","European Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",283,32,31,96.875
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",2586,232,124,53.448275862
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",13338,2063,1123,54.435288415
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",7705,1428,426,29.831932773
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",5416,394,269,68.274111675
+"RUS","Russian Federation","European Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",9671,1041,726,69.740634006
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",1927,167,86,51.497005988
+"ZAF","South Africa","African Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",26026,5878,3858,65.634569581
+"CHE","Switzerland","European Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",12511,81,11,13.580246914
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",14722,1533,848,55.316373125
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Gentamicin",3959,147,16,10.884353741

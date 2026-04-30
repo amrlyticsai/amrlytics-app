@@ -1,0 +1,192 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2.81892021,24.143692565,43.333333333,55.405405405,86.503067485
+2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2.903697514,17.333333333,42.318059299,57.439446367,90.566037736
+2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",0,20.240625214,45.278450363,58.659288284,93.58974359
+2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2.222222222,21.264367816,42.87995142,63.310185185,97.222222222
+2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2.702702703,22.55109671,46.922782802,65.014577259,97.368421053
+2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4.758182706,22.765298443,47.663043478,65.129694172,91.204819277
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",7385,1501,602,40.106595603
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",633,125,39,31.2
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",841,200,117,58.5
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",314,90,39,43.333333333
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",216,71,35,49.295774648
+"IND","India","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",14459,1665,1023,61.441441441
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1381,274,103,37.591240876
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1826,384,185,48.177083333
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",126859,12558,354,2.81892021
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",345,20,10,50
+"XKX","Kosovo","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",164,65,4,6.153846154
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",275,36,10,27.777777778
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",330,52,11,21.153846154
+"MLI","Mali","African Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",422,32,22,68.75
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1116,142,78,54.929577465
+"MOZ","Mozambique","African Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",51,19,3,15.789473684
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1202,74,41,55.405405405
+"MKD","North Macedonia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",176,36,31,86.111111111
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",631,143,70,48.951048951
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",7410,467,263,56.316916488
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5595,1197,289,24.143692565
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3519,701,159,22.681883024
+"RUS","Russian Federation","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",427,163,141,86.503067485
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2420,832,443,53.245192308
+"ZAF","South Africa","African Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",20691,5498,1858,33.794106948
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",19539,2074,228,10.993249759
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2629,391,65,16.624040921
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1660,378,165,43.650793651
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2452,567,234,41.26984127
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5783,1175,466,39.659574468
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",780,209,76,36.363636364
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1020,210,141,67.142857143
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",606,166,76,45.78313253
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",433,136,68,50
+"IND","India","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",24223,4523,2938,64.956887022
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2314,614,357,58.143322476
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2277,384,230,59.895833333
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",136246,14361,417,2.903697514
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",627,60,29,48.333333333
+"XKX","Kosovo","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",151,55,8,14.545454545
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",314,40,13,32.5
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",218,46,21,45.652173913
+"MLI","Mali","African Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",387,19,12,63.157894737
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",624,137,63,45.98540146
+"MOZ","Mozambique","African Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",103,18,2,11.111111111
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2380,347,136,39.193083573
+"MKD","North Macedonia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",276,53,48,90.566037736
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1007,371,157,42.318059299
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",8980,361,262,72.576177285
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",6468,1486,717,48.250336474
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3646,716,126,17.597765363
+"RUS","Russian Federation","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1173,390,328,84.102564103
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2528,867,498,57.439446367
+"ZAF","South Africa","African Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",20489,5767,2069,35.876538928
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",10424,1235,114,9.230769231
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5463,850,341,40.117647059
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",932,196,93,47.448979592
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2464,528,212,40.151515152
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",7376,1767,849,48.0475382
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",568,168,96,57.142857143
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",954,207,126,60.869565217
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",584,169,103,60.946745562
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",741,224,102,45.535714286
+"IND","India","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",12371,2543,1548,60.872984664
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1676,373,224,60.053619303
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1854,312,239,76.602564103
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",142185,16466,619,3.759261509
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",446,40,10,25
+"XKX","Kosovo","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",161,77,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",422,80,33,41.25
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",565,40,16,40
+"MLI","Mali","African Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",297,31,13,41.935483871
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",530,132,49,37.121212121
+"MOZ","Mozambique","African Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",72,15,1,6.666666667
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1515,420,196,46.666666667
+"MKD","North Macedonia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",293,118,88,74.576271186
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",876,224,143,63.839285714
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5623,239,169,70.711297071
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4276,1110,562,50.630630631
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4095,870,170,19.540229885
+"RUS","Russian Federation","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1305,514,456,88.715953307
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2458,777,493,63.449163449
+"ZAF","South Africa","African Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",23840,7301,3418,46.815504725
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",10256,1287,92,7.148407148
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",6159,1092,395,36.172161172
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",917,193,92,47.668393782
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2925,638,254,39.811912226
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",9243,2347,1009,42.991052407
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",677,216,133,61.574074074
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1457,279,184,65.949820789
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",953,291,112,38.487972509
+"GEO","Georgia","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",666,186,126,67.741935484
+"IND","India","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",34056,6560,4766,72.652439024
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3070,630,425,67.46031746
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2037,331,201,60.725075529
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",148205,17401,729,4.189414401
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1611,42,20,47.619047619
+"XKX","Kosovo","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",213,90,2,2.222222222
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",340,78,19,24.358974359
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",315,72,21,29.166666667
+"MLI","Mali","African Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",280,29,6,20.689655172
+"MLT","Malta","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",569,135,47,34.814814815
+"MOZ","Mozambique","African Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",78,31,26,83.870967742
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1301,275,140,50.909090909
+"MKD","North Macedonia","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",284,108,64,59.259259259
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1621,400,237,59.25
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",10931,1462,1010,69.083447332
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4850,1302,698,53.609831029
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4488,957,220,22.988505747
+"RUS","Russian Federation","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2762,763,669,87.680209699
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1126,395,271,68.607594937
+"ZAF","South Africa","African Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",23334,6675,2755,41.27340824
+"CHE","Switzerland","European Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",10322,1369,115,8.400292184
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",6559,1122,413,36.809269162
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",854,248,118,47.580645161
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3989,1156,540,46.712802768
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",8366,1828,955,52.242888403
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",582,152,79,51.973684211
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1207,296,206,69.594594595
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",776,222,150,67.567567568
+"GEO","Georgia","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1007,200,138,69
+"IND","India","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",43929,8874,6429,72.44759973
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5596,1372,900,65.597667638
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2263,496,359,72.379032258
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",158356,18895,888,4.699655994
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2027,344,207,60.174418605
+"XKX","Kosovo","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",189,111,3,2.702702703
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",461,64,16,25
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1084,42,11,26.19047619
+"MLI","Mali","African Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",286,30,9,30
+"MLT","Malta","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",706,145,43,29.655172414
+"MOZ","Mozambique","African Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",80,25,20,80
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2829,349,187,53.581661891
+"MKD","North Macedonia","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",279,99,31,31.313131313
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2075,424,236,55.660377358
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",16099,2319,1593,68.693402329
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5937,1471,781,53.093133923
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4484,1003,218,21.734795613
+"RUS","Russian Federation","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4369,1538,1392,90.507152146
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1962,636,383,60.220125786
+"ZAF","South Africa","African Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",24658,7005,3182,45.424696645
+"CHE","Switzerland","European Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",11308,1495,144,9.632107023
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",9544,1543,550,35.644847699
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",858,184,83,45.108695652
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",4194,1068,446,41.760299625
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",9290,2139,1090,50.958391772
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",964,246,116,47.154471545
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1271,379,290,76.517150396
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3041,758,507,66.886543536
+"GEO","Georgia","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",898,177,126,71.186440678
+"IND","India","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",41375,9011,6672,74.042836533
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",9180,2068,1372,66.344294004
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2925,551,426,77.313974592
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",169604,20470,974,4.758182706
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3297,308,173,56.168831169
+"XKX","Kosovo","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",164,63,9,14.285714286
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",605,92,18,19.565217391
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",54,23,14,60.869565217
+"MLI","Mali","African Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",275,27,13,48.148148148
+"MLT","Malta","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",859,168,53,31.547619048
+"MOZ","Mozambique","African Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",51,17,13,76.470588235
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2740,424,271,63.91509434
+"MKD","North Macedonia","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",283,93,35,37.634408602
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",2586,575,268,46.608695652
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",13338,2875,2139,74.4
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",7705,1840,877,47.663043478
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",5416,1244,373,29.98392283
+"RUS","Russian Federation","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",9671,3320,3028,91.204819277
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1927,529,306,57.844990548
+"ZAF","South Africa","African Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",26026,6967,3205,46.002583608
+"CHE","Switzerland","European Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",12511,1678,181,10.786650775
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",14722,2335,1071,45.867237687
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",1332,379,203,53.562005277
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Ciprofloxacin",3959,957,357,37.304075235
