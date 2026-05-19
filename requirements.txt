@@ -12,3 +12,4 @@ pdf2image
 Pillow
 scikit-learn
 statsmodels
+prophet
